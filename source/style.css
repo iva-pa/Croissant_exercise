@@ -9,6 +9,11 @@ body {
 h1 {
   color: #680747;
 }
+p {
+  display: block;
+  margin: 10px;
+}
+
 a {
   margin: 10px;
   color: #680747;
